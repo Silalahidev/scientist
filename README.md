@@ -30,5 +30,5 @@ Berikut Gambar ERD Database = [ERD](ERD.png)
 
 Hasil Analisis dan Insight Dashboard =[Dashboard](HasilAnalisis.png)
 
-# @Create By Jadihot Silalahi
+# @ Create By Jadihot Silalahi, Darman Nurdianto, Chelsea Agata Cantika
 
