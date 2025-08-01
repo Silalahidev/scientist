@@ -19,6 +19,8 @@ selain itu kita juga memberikan optimasi dan strategi produk kepada perusahaan.
 10.Tabel products  
 11.Tabel sellers  
 
+AKSES DATABASE= [Database](https://drive.google.com/drive/folders/1iNaLDjK-GZsMjFZ-YU4a1aseZpOgAAaq?usp=drive_link)
+
 
 # Gambar ERD Database
 Berikut Gambar ERD Database = [ERD](ERD.PNG)
