@@ -28,7 +28,7 @@ Berikut Gambar ERD Database = [ERD](ERD.png)
 
 # Lihat Juga :
 
-Hasil Analisis dan Insight Dashboard =[Dashboard](gambar.png)
+Hasil Analisis dan Insight Dashboard =[Dashboard](HasilAnalisis.png)
 
 # @Create By Jadihot Silalahi
 
