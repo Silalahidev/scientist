@@ -23,7 +23,7 @@ AKSES DATABASE= [Database](https://drive.google.com/drive/folders/1iNaLDjK-GZsMj
 
 
 # Gambar ERD Database
-Berikut Gambar ERD Database = [ERD](ERD.PNG)
+Berikut Gambar ERD Database = [ERD](ERD.png)
 
 
 
